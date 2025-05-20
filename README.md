@@ -54,11 +54,11 @@ Design and implement a robust data ingestion pipeline that:
 ---
 
 💻 Tools & Setup Used
-Tools	| Role
-Apache - Hadoop	HDFS setup & file handling
-Apache Hive	- Query engine and data warehouse
-MySQL -	Hive Metastore backend
-Beeline	- Interface to execute Hive queries
+Tools	| Role  
+(Apache) - Hadoop	HDFS setup & file handling.
+(Apache Hive)	- Query engine and data warehouse.
+(MySQL) -	Hive Metastore backend.
+(Beeline)	- Interface to execute Hive queries.
 
 🏁 Future Scope
 Add dynamic ingestion automation using Python,
